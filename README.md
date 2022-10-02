@@ -1,7 +1,8 @@
 # StateFarmCarousel
 
+- We developed an application that will give personalized recommendations on what plan is right for you
+- The application also allows the user to learn more about each insurance plan, and connect with a local agent
 
-## Main Page
 ![main ](https://user-images.githubusercontent.com/61089071/193469706-1ad73179-2077-40f7-8d3d-adde99f93aad.jpg)
 
 ## Getting Started
